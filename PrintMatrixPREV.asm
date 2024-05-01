@@ -1,5 +1,3 @@
-; 324888155, 50%
-; 209632108, 50%
 ; Convention: Haifa
 .orig X3C80
 PrintMatrixPREV: ;just print the matrix and ask
