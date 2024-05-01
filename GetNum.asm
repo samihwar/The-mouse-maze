@@ -1,5 +1,3 @@
-; 324888155, 50%
-; 209632108, 50%
 ; Convention: Haifa
 .orig x38FC
 GetNum:
