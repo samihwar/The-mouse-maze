@@ -1,5 +1,3 @@
-; 324888155, 50%
-; 209632108, 50%
 ; Convention: Haifa
 .ORIG X39C4
 GetMatrix:  ; R3 = pointer to 2D matrix, R4 = matrix size
